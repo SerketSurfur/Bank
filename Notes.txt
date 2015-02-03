@@ -2,5 +2,5 @@ Program Functions:
 1.create a bank account
 2.withdraw
 3.Deposit
-4.close account
-5.check Status
+4.check Status
+5.close account
